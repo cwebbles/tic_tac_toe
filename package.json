@@ -2,9 +2,9 @@
   "name": "tic_tac_toe",
   "version": "1.0.0",
   "description": "Code challenge for BYU OIT application",
-  "main": "index.js",
+  "main": "dist/main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node dist/main.js"
   },
   "keywords": [],
   "author": "",
@@ -12,5 +12,6 @@
   "devDependencies": {
     "@types/node": "^22.0.2",
     "typescript": "^5.5.4"
-  }
+  },
+  "bin": "dist/main.js"
 }
