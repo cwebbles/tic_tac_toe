@@ -1,6 +1,8 @@
 # tic_tac_toe
 Code challenge for BYU OIT application.
 
+The game can be run using the executable or the package.json script.
+
 ## Notes
 
 I solved this challenge in Typescript, which is a superset of Javascript. I chose to use Typescript because it is a statically typed language, which means that it can catch errors at compile time rather than at runtime. This makes it easier to catch bugs and write more reliable code. I also chose to use Typescript because it is a language that I am familiar with and enjoy using.
