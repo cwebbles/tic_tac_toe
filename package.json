@@ -1,0 +1,17 @@
+{
+  "name": "tic_tac_toe",
+  "version": "1.0.0",
+  "description": "Code challenge for BYU OIT application",
+  "main": "dist/main.js",
+  "scripts": {
+    "start": "node dist/main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.0.2",
+    "typescript": "^5.5.4"
+  },
+  "bin": "dist/main.js"
+}
